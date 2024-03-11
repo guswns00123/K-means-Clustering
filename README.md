@@ -49,6 +49,8 @@
 
 * Result
   1. K= 10인 각 cluster의 centroid vector 찾기 (왼쪽 : Centroid 번호, digit 이미지의 숫자)
+ 
+     
      ![image](https://github.com/guswns00123/K-means-Clustering/assets/65805176/91e1bb8c-a146-4082-85a7-879016b147c3)
 
 
