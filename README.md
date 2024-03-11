@@ -2,6 +2,8 @@
 
 
 * Goal
+
+  
   MNIST dataset (60000 training data, 10000 test data)을 이용하여 K-mean algorithm 구현하고 적합한 initial centroid 를 찾어 test set에 적용하여 정확도 확인하기
 
   
