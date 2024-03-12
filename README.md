@@ -20,6 +20,10 @@
 * Implementation
   
   a. Run mapper, reducer file
+
+  i) K-means Algorithm을 MapReduce에 사용하여 K= 10인 각 cluster의 centroid vector 찾기
+  - 첫번째 MapReduce job : initial centroid를 기준으로 각 img의 minimum distance를 종합해 새로운 centroids 구하기
+  
    ```sh
    for i in `seq 1 10`:
    do
